@@ -20,6 +20,10 @@ Across the working drafts, the common direction included:
 - property-type diversification; and
 - pari passu co-investment with the Canadian insurer.
 
+The platform used third-party appraisals, engineering/environmental work, internal + outside legal review, and an S&P-vetted internal credit-rating system, with loans initially falling in investment-grade categories.
+
+The meeting contemplated flexibility around lender of record / beneficial ownership, legal ownership mechanics are part of the execution design.
+
 ## DSCR and term evolved across drafts
 
 Not every working document used the same thresholds.
