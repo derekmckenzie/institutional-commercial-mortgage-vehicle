@@ -57,6 +57,14 @@ That is the core alignment mechanism.
 
 It means both institutions could own interests in the same mortgage under a co-lending / interlender structure.
 
+### Existing allocation architecture
+
+The institutional mortgage platform already supported allocation across its general account, pooled vehicles and third-party separately managed accounts.
+
+The working discussions confirmed that co-investment with the insurer was available. As one illustrative example, a $30 million mortgage could be split between a third-party managed account and the insurer's general account, with both interests held pari passu.
+
+That was important to the design: the proposed MIE did not require the insurer to invent an entirely new origination model. It could potentially fit into an existing institutional allocation and co-lending framework.
+
 ## 3. What happens if the MIE passes
 
 The worked example was explicit: if the MIE did not invest in an offered share, the Canadian insurer could still provide the full amount of the mortgage to the borrower.
