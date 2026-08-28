@@ -72,3 +72,15 @@ One working example used:
 - a first mortgage on an income-producing property.
 
 The specific interest-rate assumptions in that example were illustrative and are not carried into this public case.
+
+### Why mortgage-level funding mattered
+
+Asset sourcing itself created a financing problem.
+
+The institutional discussions contemplated that building a commercial-mortgage portfolio could take multiple quarters. Capital committed too early could therefore sit idle while eligible mortgages were sourced and allocated.
+
+That made the timing of the liability side important.
+
+The later private-note structure addressed this problem directly by allowing financing to be issued as individual mortgages were originated, rather than requiring the full financing facility to be funded before the underlying assets existed.
+
+In that sense, mortgage-level matched funding was not only about duration and interest-rate matching. It was also a practical response to **deployment timing and cash drag**.
